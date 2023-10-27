@@ -1,8 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/sccapstone/demo.png?label=ready&title=Ready)](http://waffle.io/sccapstone/demo)
-josemvidal adds this on master
-I add again
+# Demo repo
 
-Add link to waffle.io
-
-robot add this 1010101
-more roboto add 1010
+This is my readme. It is better than yours.
